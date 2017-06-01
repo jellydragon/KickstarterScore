@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#2B3D4D</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#23303D</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Color for an project with score 0 and 2 -->
+    <color name="score1">#4A7BA7</color>
+
+    <!-- Score circle color for an project with score between 2 and 3 -->
+    <color name="score2">#04B4B3</color>
+
+    <!-- Score circle color for an project with score between 3 and 4 -->
+    <color name="score3">#10CAC9</color>
+
+    <!-- Score circle color for an project with score between 4 and 5 -->
+    <color name="score4">#F5A623</color>
+
+    <!-- Score circle color for an project with score between 5 and 6 -->
+    <color name="score5">#FF7D50</color>
+
+    <!-- Score circle color for an project with score between 6 and 7 -->
+    <color name="score6">#FC6644</color>
+
+    <!-- Score circle color for an project with score between 7 and 8 -->
+    <color name="score7">#E75F40</color>
+
+    <!-- Score circle color for an project with score between 8 and 9 -->
+    <color name="score8">#E13A20</color>
+
+    <!-- Score circle color for an project with score between 9 and 10 -->
+    <color name="score9">#D93218</color>
+
+    <!-- Score circle color for an project with score over 10 -->
+    <color name="score10plus">#C03823</color>
+
+    <!-- Text color for the details of the project in the list item -->
+    <color name="textColorProjectDetails">#B4BAC0</color>
+
+    <!-- Text color for the name of the project in the list item -->
+    <color name="textColorProjectName">#2B3D4D</color>
+
+</resources>
