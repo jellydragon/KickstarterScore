@@ -72,8 +72,8 @@ final class QueryUtils {
         }
 
         // Extract relevant fields from the JSON response and create a list of {@link Project}s
-        //List<Project> projects = extractFeatureFromJson(jsonResponse);
-        List<Project> projects = extractFeatureFromJson(SAMPLE_JSON_RESPONSE);
+        List<Project> projects = extractFeatureFromJson(jsonResponse);
+        //List<Project> projects = extractFeatureFromJson(SAMPLE_JSON_RESPONSE);
 
         // Return the list of {@link Project}s
         return projects;

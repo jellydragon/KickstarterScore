@@ -34,7 +34,7 @@ public class ProjectActivity extends AppCompatActivity
     /**
      * URL for project data from the web service
      */
-    private static final String WEBSERVICE_REQUEST_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&eventtype=earthquake&orderby=time&minmag=6&limit=10";
+    private static final String WEBSERVICE_REQUEST_URL = "http://fitec-filrouge-com.stackstaging.com/ProjetFilRouge/scripts/json_for_android.php";
     /**
      * Adapter for the list of projects
      */
